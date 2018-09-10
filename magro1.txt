@@ -1,4 +1,8 @@
 tydhjvuivj
+<<<<<<< HEAD
+
+=======
 hahahazap
 altereitbm alterie
-
+>>>>>>> db5a6f5aeba4781203be48f166ea2fab9b5d39a7
+fala champs manda as novas / de: magrin para: cornin 
